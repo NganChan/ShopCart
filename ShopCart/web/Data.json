@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "img": "https://freshcart.codescandy.com/assets/images/products/product-img-18.jpg",
+    "productName": "Organic Banana",
+    "productPrice": 35
+  },
+  {
+    "id": 1,
+    "img": "https://freshcart.codescandy.com/assets/images/products/product-img-17.jpg",
+    "productName": "Fresh Kiwi",
+    "productPrice": 20.97
+  },
+  {
+    "id": 2,
+    "img": "https://freshcart.codescandy.com/assets/images/products/product-img-16.jpg",
+    "productName": "Golden Pineapple",
+    "productPrice": 35
+  },
+  {
+    "id": 3,
+    "img": "https://freshcart.codescandy.com/assets/images/products/product-img-19.jpg",
+    "productName": "BeatRoot",
+    "productPrice": 29
+  },
+  {
+    "id": 4,
+    "img": "https://freshcart.codescandy.com/assets/images/products/product-img-15.jpg",
+    "productName": "Fresh Apple",
+    "productPrice": 70
+  }
+]
